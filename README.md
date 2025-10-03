@@ -1,4 +1,9 @@
 # Orange Schnitzel Tidbit
+
+[Stockholm, Southeastern Sweden. 🫎](open.spotify.com/artist/7GRrLcUxwtQLvOpO7OHO80#:~:text=Perth,%20Western%20Australia)
+
+[Work in progress forever. 🧀](open.spotify.com/artist/7GRrLcUxwtQLvOpO7OHO80#:~:text=On%20tour%20forever)
+
 2025
 - 12th of February: OST is created.
 - 19th of August: Gonna start learning HyperText Markup Language & Cascading Style Sheets in school, but first we have to blabber about online Ethics.
