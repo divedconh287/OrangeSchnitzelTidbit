@@ -1,6 +1,6 @@
 # Orange Schnitzel Tidbit
 
-[Stockholm, Southeastern Sweden. 🫎](https://open.spotify.com/artist/7GRrLcUxwtQLvOpO7OHO80#:~:text=Perth,%20Western%20Australia)
+[Stockholm, Southeastern Sweden. 🫎](<a href="https://open.spotify.com/artist/7GRrLcUxwtQLvOpO7OHO80#:~:text=Perth,%20Western%20Australia" target="_blank">)
 
 [Work in progress forever. 🧀](https://open.spotify.com/artist/7GRrLcUxwtQLvOpO7OHO80#:~:text=On%20tour%20forever)
 
