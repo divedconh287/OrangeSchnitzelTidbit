@@ -1,8 +1,8 @@
 # Orange Schnitzel Tidbit
 
-[Stockholm, Southeastern Sweden. 🫎](open.spotify.com/artist/7GRrLcUxwtQLvOpO7OHO80#:~:text=Perth,%20Western%20Australia)
+[Stockholm, Southeastern Sweden. 🫎](https://open.spotify.com/artist/7GRrLcUxwtQLvOpO7OHO80#:~:text=Perth,%20Western%20Australia)
 
-[Work in progress forever. 🧀](open.spotify.com/artist/7GRrLcUxwtQLvOpO7OHO80#:~:text=On%20tour%20forever)
+[Work in progress forever. 🧀](https://open.spotify.com/artist/7GRrLcUxwtQLvOpO7OHO80#:~:text=On%20tour%20forever)
 
 2025
 - 12th of February: OST is created.
