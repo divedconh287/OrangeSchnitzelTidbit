@@ -12,3 +12,4 @@
 - 19th of September: Created a [README.md.](https://github.com/divedconh287/OrangeSchnitzelTidbit)
 - 9th of October: Trying to sync VSCode &amp; Neocities for editing convenience.
 - 10th of October: Reset this repo.
+- 13th of October: Started learning Javascript in school.
